@@ -112,7 +112,7 @@ Bu proje, Flask kullanarak temel matematiksel işlemleri gerçekleştiren bir AP
    Aşağıdaki komutu terminalde çalıştırın:
 
    ```bash
-   docker-compose up -d
+   docker compose up -d
    ```
 
 3. **Çalıştığını kontrol edin:**  
@@ -134,3 +134,6 @@ Bu proje, Flask kullanarak temel matematiksel işlemleri gerçekleştiren bir AP
 ```
 
 ---
+
+## Proje Sonucu
+Proje çalıştığında localhost:3800 da çalışacaktır.
